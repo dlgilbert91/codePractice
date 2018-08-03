@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.StringRepeat;
+import week1Fundamentals.StringRepeat;
 
 class StringRepeatTest {
     @Test public void test4a() {

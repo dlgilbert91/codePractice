@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.EvenOrOdd;
+import week1Fundamentals.EvenOrOdd;
 
 class EvenOrOddTest {
 

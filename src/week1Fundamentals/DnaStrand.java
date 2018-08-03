@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 /* - - - - - PROBLEM - - - - -
  * In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". You have function with one side of the DNA (string, except for Haskell); 

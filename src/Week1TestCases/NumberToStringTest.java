@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.NumberToString;
+import week1Fundamentals.NumberToString;
 
 class NumberToStringTest {
 	  @Test

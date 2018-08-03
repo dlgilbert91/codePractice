@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 /* - - - - - PROBLEM - - - - -
  * None given - TDD Test - Refer to AccumulTest.

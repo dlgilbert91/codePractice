@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.TillWithNoMoney;
+import week1Fundamentals.TillWithNoMoney;
 
 class TillWithNoMoneyTest {
     @Test

@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.Accumul;
+import week1Fundamentals.Accumul;
 
 public class AccumulTest {
 

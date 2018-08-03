@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 /* - - - - - PROBLEM - - - - -
  * The new "Avengers" movie has just been released! There are a lot of people at the 

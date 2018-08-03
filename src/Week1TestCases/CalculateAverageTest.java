@@ -4,7 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import Week1.CalculateAverage;
+import week1Fundamentals.CalculateAverage;
 
 class CalculateAverageTest {
     private static final double DELTA = 1e-15;

@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 /* - - - - - PROBLEM - - - - -
  * Remove all vowels from a given string.
  */

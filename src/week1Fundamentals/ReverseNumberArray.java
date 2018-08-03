@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 /* - - - - - PROBLEM - - - - -
  * Given number array return it in reverse order.
  */

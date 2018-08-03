@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 /* - - - - - PROBLEM - - - - -
  * Calculate average of given array.

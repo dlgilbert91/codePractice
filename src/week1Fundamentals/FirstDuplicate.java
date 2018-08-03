@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 public class FirstDuplicate {
 

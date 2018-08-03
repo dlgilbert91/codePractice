@@ -1,4 +1,4 @@
-package Week1;
+package week1Fundamentals;
 
 /* - - - - - PROBLEM - - - - -
  * Create a function that takes an integer as an argument and returns "Even" for even 
